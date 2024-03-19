@@ -1,3 +1,10 @@
+HI, I'm Hsieh, Ching-Hua.
+
+DevOps / Game Development / Software Engineering
+
+* Passed CAPCOM's test and took the interview, feel free to contact me :)
+* uni.toberuneko@gmail.com
+
 <a href="https://www.linkedin.com/in/%E6%B8%85%E8%8F%AF-%E8%AC%9D-3a0808278/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
