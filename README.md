@@ -1,4 +1,5 @@
 HI, I'm Hsieh, Ching-Hua.
+
 DevOps / Game Development / Software Engineering
 
 * Passed CAPCOM's test and took the interview, feel free to contact me :)
